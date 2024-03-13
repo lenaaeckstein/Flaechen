@@ -7,8 +7,6 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\eckst\OneDrive - BHAK BHAS Zell am See\Schule\Apr\Projekte\2.Semester\Thema Vererbung\Quadrat.cs" Link="Quadrat.cs" />
-  </ItemGroup>
+
 
 </Project>

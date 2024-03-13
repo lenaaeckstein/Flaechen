@@ -17,7 +17,7 @@ public class Quadrat : Rechteck
     int _flaeche = 0;
     public Quadrat(int flaeche) : base(flaeche)
     {
-        flaeche = _flaeche;
+        _flaeche = flaeche;
     }
 
 }
