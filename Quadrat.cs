@@ -8,16 +8,16 @@ namespace Flächen;
 
 public class Quadrat : Rechteck
 {
+
     public override double GetFlaeche()
     {
         return _flaeche;
     }
 
-
     int _flaeche = 0;
-    public Quadrat(int flaeche) : base(flaeche) // dadurch rufe ich konstr
+    public Quadrat(int flaeche) : base(flaeche)
     {
-        _flaeche = flaeche;
+        flaeche = _flaeche;
     }
 
 }
